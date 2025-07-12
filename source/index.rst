@@ -84,10 +84,6 @@ Whether you're locked out, need to fix a failed transaction, or want help with y
 
 
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 
 .. toctree::
    :maxdepth: 2
