@@ -11,7 +11,7 @@ If you're facing issues with your Crypto.com account, here’s your go-to suppor
 **Crypto.com Support Numbers (USA) +1➛806➛281➛2627 (Dial) +1➛214➛688➛9672** These numbers are available for Crypto.com users needing urgent help with account access, transactions, verification, or card issues.
 
 Why Customer Support Matters
-------------------------------
+-----------------------------
 
 Crypto operates 24/7 — meaning problems can arise any time. With real funds and sensitive data at stake, fast and trustworthy support is critical. Unlike many platforms, **Crypto.com offers multiple support channels**, including direct phone numbers, live chat, and a detailed Help Center.
 
